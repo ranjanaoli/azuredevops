@@ -1,2 +1,2 @@
-# azuredevops
-web server in Azure Devops
+# azureDevOps
+web application in Azure DevOps
